@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>common-email-envelope-mail-glyph</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="miu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-251.000000, -335.000000)">
+            <g id="slice" sketch:type="MSLayerGroup" transform="translate(215.000000, 119.000000)"></g>
+            <path d="M273.292692,355 L252.71095,355 L252.71095,355 L260.041535,347.665728 L263,349.929598 L265.960528,347.664149 L273.292692,355 Z M274,354.293095 L274,341.512204 L274,341.512204 L266.761657,347.051112 L274,354.293095 Z M252,354.296739 L252,341.512204 L259.240407,347.052691 L252,354.296739 L252,354.296739 Z M274,340.253884 L274,339 L252,339 L252,340.253884 L263,348.68741 L274,340.253884 Z" id="common-email-envelope-mail-glyph" fill="#000000" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
